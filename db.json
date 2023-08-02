@@ -1,0 +1,40 @@
+{
+  "postagens": [
+    {
+      "imagem": "http://127.0.0.1:5500/img/projeto.png",
+      "conteudo": "é isso ai",
+      "autor": "Daniel Souza",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "imagem": "http://127.0.0.1:5500/img/projeto.png",
+      "conteudo": "aaaaaaaaaaaa",
+      "autor": "Daniel Souza"
+    },
+    {
+      "imagem": "http://127.0.0.1:5500/img/projeto.png",
+      "conteudo": "teste",
+      "autor": "aaaaaaaaaaaaaaaa",
+      "id": 3
+    },
+    {
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "conteudo": "aasasa",
+      "autor": "Daniel Souza",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "imagem": "http://127.0.0.1:5500/img/projeto.png",
+      "conteudo": "jhggjh",
+      "autor": "Daniel Souza"
+    },
+    {
+      "id": 6,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "conteudo": "jjkhkh",
+      "autor": "daaaaaniel"
+    }
+  ]
+}
